@@ -9,6 +9,6 @@ public class SpringGitApplication {
 
         System.out.println("Hello World");
         System.out.println("update1");
-        System.out.println("update2");
+        System.out.println("branch修改bug1");
     }
 }
